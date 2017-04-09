@@ -1,0 +1,12 @@
+d:\Users\Szymon\documents\visual studio 2013\Projects\Bociek\Bociek\bin\Debug\Bociek.exe.config
+d:\Users\Szymon\documents\visual studio 2013\Projects\Bociek\Bociek\bin\Debug\Bociek.exe
+d:\Users\Szymon\documents\visual studio 2013\Projects\Bociek\Bociek\bin\Debug\Bociek.pdb
+d:\Users\Szymon\documents\visual studio 2013\Projects\Bociek\Bociek\bin\Debug\pl-PL\Bociek.resources.dll
+d:\Users\Szymon\documents\visual studio 2013\Projects\Bociek\Bociek\obj\Debug\Bociek.Form1.resources
+d:\Users\Szymon\documents\visual studio 2013\Projects\Bociek\Bociek\obj\Debug\Bociek.Properties.Resources.resources
+d:\Users\Szymon\documents\visual studio 2013\Projects\Bociek\Bociek\obj\Debug\Bociek.Form1.pl-PL.resources
+d:\Users\Szymon\documents\visual studio 2013\Projects\Bociek\Bociek\obj\Debug\Bociek.csproj.GenerateResource.Cache
+d:\Users\Szymon\documents\visual studio 2013\Projects\Bociek\Bociek\obj\Debug\pl-PL\Bociek.resources.dll
+d:\Users\Szymon\documents\visual studio 2013\Projects\Bociek\Bociek\obj\Debug\Bociek.exe
+d:\Users\Szymon\documents\visual studio 2013\Projects\Bociek\Bociek\obj\Debug\Bociek.pdb
+d:\Users\Szymon\documents\visual studio 2013\Projects\Bociek\Bociek\obj\Debug\Bociek.csprojResolveAssemblyReference.cache
